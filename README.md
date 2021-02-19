@@ -1,1 +1,11 @@
 不要摸鱼
+
+## 群论
+[群论](https://www.koushare.com/lives/room/527637)
+
+## Javascript
+
+## C++
+
+## 机器学习
+
